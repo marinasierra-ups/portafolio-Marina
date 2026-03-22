@@ -84,12 +84,13 @@ transform: translateY(0px);
 }
 
 #sobre-mi{
-background-image: url("../img/Group 95.png");
+background-color: var(--color-texto);
 background-size: cover;
 background-position: center;
 padding: 40px 0;  
 margin-top: 20px;
 }
+ 
 
 h2.titulo{
 font-family: 'Anton SC', sans-serif;
