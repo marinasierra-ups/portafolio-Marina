@@ -24,18 +24,7 @@ header{
 	padding: 10px 0;
 	width: cover;
 }
-
-@media (max-width: 576px){
-	.imagenprotada{
-		width: 100%;
-		max-width: none;
-	}
-
-@media (max-width: 576px){
-	#hero{
-		min-height: 60vh;
-		padding: 20px 10px;
-	}	
+	
 	
 .navbar-nav{
 list-style: none; 
