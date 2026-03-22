@@ -78,9 +78,9 @@ width: 100%;
 
 .imagenprotada{
 width: 70%;   
-max-width: 750px;
+max-width: 850px;
 display: block;
-transform: translateY(0px); 
+transform: translateY(5px); 
 }
 
 #sobre-mi{
